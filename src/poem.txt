@@ -6,10 +6,10 @@ I have faced many bouts of indoctrination.
 From a brilliant mind — some would say a prodigy —
 Sharing to others his corrosive ideology.
 
-Their passion was unlike anything I've ever seen;
+Their passion was unlike anything I'd ever seen;
 Their works of art displayed on a computer screen.
 The tools they used, the peak of efficiency;
-With every keystroke, they display their proficiency.
+With every keystroke, they displayed their proficiency.
 
 Their language of choice, no other than Rust,
 The concepts it teaches were frequently discussed.
